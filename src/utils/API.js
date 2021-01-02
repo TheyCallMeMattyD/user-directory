@@ -1,5 +1,5 @@
 import axios from "axios";
-var employeeCount = 5;
+var employeeCount = 1000;
 
 export default {
   // Populates Employees for the Directory
