@@ -79,6 +79,7 @@ const DataArea = () => {
 
   const handleSearchChange = event => {
     const filter = event.target.value;
+    // eslint-disable-next-line array-callback-return
     const filteredList = developerState.users.filter(item => {
       let values = item.name.first.toLowerCase() + " " + item.name.last.toLowerCase();
       console.log(filter, values)
