@@ -24,10 +24,10 @@
 ## Installation
 >1. Be sure you've installed npm (node project manager) and node.js on your system.  
 >2. Ensure the follow dependencies are installed by entering the following code in your terminal:  
->   a. npm i react
->   b. npm i axios
->   c. npm i react-dom
->   d. npm i react-scripts.  
+>   a. npm i react  
+>   b. npm i axios  
+>   c. npm i react-dom  
+>   d. npm i react-scripts  
   
 ## Usage
 >Use the search box at the top of the screen to filter employees by name.<br/><br/>  
