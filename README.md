@@ -28,33 +28,24 @@
 >   a. npm i react
 >   b. npm i axios
 >   c. npm i react-dom
->   d. npm i react-scripts. 
-
+>   d. npm i react-scripts.  
   
 ## Usage
 >Use the search box at the top of the screen to filter employees by name.<br/><br/>  
 >1. To run the employee summary generator, enter 'npm start' in the terminal.  
->
->![screenShot](https://user-images.githubusercontent.com/66084799/97936241-e6163d00-1d48-11eb-8af5-ae04a5a1b736.png)
+>  
+>![Screen Shot 2021-01-25 at 8 27 15 PM](https://user-images.githubusercontent.com/66084799/105786793-be033800-5f4b-11eb-811e-78d2a81bc8f0.png)  
 
-
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
->This application is covered under the [MIT License](https://opensource.org/licenses/MIT)
+## License  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
+>This application is covered under the [MIT License](https://opensource.org/licenses/MIT)  
   
-## Contributing
->Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.<br/><br/>
->Please make sure to update tests as appropriate.
-
-## Tests
->### Here's a GIF of the generator being executed:  
->![Screen-Recording-2020-11-02-at-8](https://user-images.githubusercontent.com/66084799/97936150-ae0efa00-1d48-11eb-9051-7ebc0536fd1a.gif)
-
->### Here's a screenshot of the test validations being executed.
->![tests](https://user-images.githubusercontent.com/66084799/97935135-a9951200-1d45-11eb-916e-0350a17d2765.png)  
-  
-## Questions
->Please direct all questions to:
-TheMattyD@outlook.com<br/>
-Check out my GitHub Profile @ https://github.com/TheyCallMeMattyD  
+## Contributing  
+>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.<br/><br/>  
+>Please make sure to update tests as appropriate.  
+   
+## Questions  
+>Please direct all questions to:  
+TheMattyD@outlook.com<br/>  
+Check out my GitHub Profile @ https://github.com/TheyCallMeMattyD   
 
