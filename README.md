@@ -18,8 +18,7 @@
 >3. [Installation](#Installation)
 >4. [Usage](#Usage)
 >5. [License](#License)
->6. [Contributing](#Contributing)
->7. [Tests](#Tests)
+>6. [Contributing](#Contributing)  
 >8. [Questions?](#Questions?)
   
 ## Installation
