@@ -10,7 +10,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/theycallmemattyd/user-directory?style=for-the-badge)  
 
 ## Description
->A React-based employee directory.
+>A React-based employee directory.  
   
 ## Table of Contents
 >1. [Title](#Title)
@@ -25,18 +25,15 @@
 ## Installation
 >1. Be sure you've installed npm (node project manager) and node.js on your system.  
 >2. Ensure the follow dependencies are installed by entering the following code in your terminal:  
->   a. npm i inquirer  
->   b. npm i path  
->   c. npm i fs  
->   d. npm i jest  
->   e. npm i test  
->3. To run the test verifications, from the root directory enter 'npm run test'. 
+>   a. npm i react
+>   b. npm i axios
+>   c. npm i react-dom
+>   d. npm i react-scripts. 
+
   
 ## Usage
->Simply answer each question as they appear and press 'Enter' to proceed to the next question.<br/><br/>  
->1. To run the employee summary generator, enter 'node app.js' ... then just start answering the questions!
->2. To view the summary generator results, please navigate to the team.html file, right click, and select 'view in default browser', OR - follow the link here:  
->https://theycallmemattyd.github.io/template-engine-employee-summary/output/team.html  
+>Use the search box at the top of the screen to filter employees by name.<br/><br/>  
+>1. To run the employee summary generator, enter 'npm start' in the terminal.  
 >
 >![screenShot](https://user-images.githubusercontent.com/66084799/97936241-e6163d00-1d48-11eb-8af5-ae04a5a1b736.png)
 
